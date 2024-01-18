@@ -1,2 +1,3 @@
 # assignment
-company details
+Bluejay Delivery
+Software Development internship
