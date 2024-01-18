@@ -1,0 +1,11 @@
+
+
+a) who has worked for 7 consecutive days.
+DeXgadiXXE REdarMe, ChrisMiaW S worked for more than 14 hours in a single shift at position WFS000523.
+
+b) who have less than 10 hours of time between shifts but greater than 1 hour
+no person have work for less than 10 hours so therefore there is no output available 
+
+c) Who has worked for more than 14 hours in a single shift
+no person have work for more than 14 hours in a single shift so therefore there is no output available 
+
